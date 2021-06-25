@@ -1978,7 +1978,7 @@ h1 {
   padding: 0 12px;
   font-size: 28px;
   vertical-align: middle;
-  color: #ff4a67;
+  color: #3300ff;
 }
 
 #contact-text ul li span {
@@ -2248,7 +2248,7 @@ footer {
 
 #pricing .price-block-wrapper .icon i {
   font-size: 60px;
-  color: #ff4a67;
+  color: #1c0091;
 }
 
 #pricing .price-block-wrapper .colmun-title h5 {
@@ -2268,7 +2268,7 @@ footer {
 
 #pricing .price-block-wrapper .price h2 {
   font-size: 38px;
-  background-image: linear-gradient(65deg, #FF4D79 0, #FF809F 100%);
+  background-image: linear-gradient(65deg, #1c0091 0, #3300ff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -2312,7 +2312,7 @@ footer {
 #pricing .price-block-wrapper .pricing-list ul li i {
   margin-right: 7px;
   font-size: 12px;
-  color: #ff4a67;
+  color: #3300ff;
 }
 
 #pricing .price-block-wrapper .btn i {
