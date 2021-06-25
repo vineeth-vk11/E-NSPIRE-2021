@@ -123,8 +123,12 @@
   .section-sub {
     font-size: 16px;
   }
+  .hero-area-bg {
+    background-size:120% ;
+    background-position: center;
+  }
   #hero-area .contents {
-    padding: 100px 0;
+    padding: 150px 0;
   }
   #hero-area .contents .head-title {
     font-size: 20px;
