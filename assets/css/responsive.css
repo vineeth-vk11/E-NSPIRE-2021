@@ -70,7 +70,7 @@
     padding:0 ;
   }
   .tab button {
-    font-size: 2vw;
+    font-size: 1.9vw;
    
    }
    .
@@ -78,6 +78,15 @@
 
 /* only small tablets */
 @media (min-width: 768px) and (max-width: 991px) {
+  .h1{
+    font-size: 2.2vw;
+  }
+  .p1{
+    font-size: 2.2vw;
+  }
+  .p2{
+    font-size: 2.2vw;
+  }
   #hero-area .contents .head-title {
     font-size: 36px;
   }
@@ -145,7 +154,7 @@
     font-size: 3vw;
   }
   .tab button {
-    font-size: 3.2vw;
+    font-size: 3.1vw;
     padding: 2% 4%;
    
    }
@@ -153,7 +162,6 @@
     margin: 5% 0;
      margin-left: 25%;
     width: 50%;
-    background:#FF215A;
     
   }
    .nav-menu button{
@@ -172,6 +180,10 @@
   .p2{
     font-size: 3vw;
   }
+  #hero-area .contents {
+    padding: 320px 20px 150px;
+  }
+  
   .section-title {
     font-size: 22px;
   }
@@ -179,12 +191,10 @@
     font-size: 16px;
   }
   .hero-area-bg {
-    background-size:120% ;
+    background-size:cover ;
     background-position: center;
   }
-  #hero-area .contents {
-    padding: 150px 0;
-  }
+  
   #hero-area .contents .head-title {
     font-size: 20px;
     margin-bottom: 10px;
@@ -287,13 +297,13 @@
   }
 }
 
-@media (min-width: 320px) and (max-width: 480px) {
+@media (min-width: 30px) and (max-width: 480px) {
   .btn {
     padding: 5px 7px;
     font-size: 13px;
   }
   .tab button {
-    font-size: 3.5vw;
+    font-size: 3.45vw;
    padding: 1% 2%;
    }
    .nav-menu button{
